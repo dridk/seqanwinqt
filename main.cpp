@@ -7,6 +7,5 @@ int main(int argc, char *argv[])
 
     std::cout<<"seqan works !! \n";
 
-    qDebug()<<COMPILER_GCC;
 
 }
